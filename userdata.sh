@@ -1,7 +1,7 @@
 #!/bin/bash
 apt-get update -y
 apt-get install git -y
-apt-get install python3 -y
+apt-get install python3.8 -y
 cd /home/ubuntu/
 TOKEN="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"
 git clone https://$TOKEN@github.com/alledevops/blog-page-app-django-on-aws
