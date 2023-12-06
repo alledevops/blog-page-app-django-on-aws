@@ -110,7 +110,7 @@ Please check the [outcomes](./outcomes/) folder to view all the images and video
 
 ![](./blog_home_page.JPG)
 
-https://github.com/alledevops/blog-page-app-django-on-aws/assets/75995111/f19ae9c5-5ad2-4859-984f-5c1bda1699c8
+https://github.com/alledevops/blog-page-app-django-on-aws/assets/75995111/c5d34461-00b0-42f3-8f85-b7f7d3a5b65f
 
 ## Overcoming Challenges
 
