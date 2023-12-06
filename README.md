@@ -106,6 +106,8 @@ To implement the project step by step using the AWS Management Console, you can 
 The guide provides detailed instructions on **how to successfully deploy** the TechMust Blog Page Application on AWS infrastructure with the desired architecture.
 
 ## Outcome
+Please check the [outcomes](./outcomes/) folder to view all the images and videos that validate the project promises.
+
 ![](./blog_home_page.JPG)
 
 ## Overcoming Challenges
