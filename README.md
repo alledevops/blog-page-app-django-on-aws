@@ -110,11 +110,7 @@ Please check the [outcomes](./outcomes/) folder to view all the images and video
 
 ![](./blog_home_page.JPG)
 
-<video width="640" height="360" controls>
-  <source src="project_full_validation_check.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/alledevops/blog-page-app-django-on-aws/assets/75995111/f19ae9c5-5ad2-4859-984f-5c1bda1699c8
 
 ## Overcoming Challenges
 
