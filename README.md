@@ -1,5 +1,5 @@
 # Building a Secure and Scalable Django Blog on AWS
-![](./images/django_aws.jpeg)
+![](./outcomes/images/django_aws.jpeg)
 
 ## Project Summary
 
@@ -25,7 +25,7 @@ This project deploys a Django-based blog application on AWS using various servic
 
 To successfully deploy the **TechMust Blog** Page Application on AWS infrastructure with the desired architecture, we will structure our project into several key components. This project skeleton will include:
 
-![High Level Design](./images/project_skeleton.jpg)
+![High Level Design](./outcomes/images/project_skeleton.jpg)
 
 ### 1\. Amazon Web Services (AWS)
 
@@ -106,7 +106,7 @@ To implement the project step by step using the AWS Management Console, you can 
 The guide provides detailed instructions on **how to successfully deploy** the TechMust Blog Page Application on AWS infrastructure with the desired architecture.
 
 ## Outcome
-![](outcome.JPG)
+![](./blog_home_page.JPG)
 
 ## Overcoming Challenges
 
