@@ -110,6 +110,12 @@ Please check the [outcomes](./outcomes/) folder to view all the images and video
 
 ![](./blog_home_page.JPG)
 
+<video width="640" height="360" controls>
+  <source src="project_full_validation_check.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Overcoming Challenges
 
 1. **EC2 Instance Health Check Failure:**
