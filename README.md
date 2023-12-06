@@ -101,7 +101,7 @@ We enforce **fine-grained access control** using IAM roles and policies. Each AW
 
 ## Implementation Guide
 
-To implement the project step by step using the AWS Management Console, you can follow this **project design narrative** in my **blog website**: https://alledevops.hashnode.dev/building-a-secure-and-scalable-django-blog-on-aws-the-ultimate-guide
+To implement the project step by step using the AWS Management Console, you can follow this **project design narrative** in my **blog website**: https://alledevops.com/building-a-secure-and-scalable-django-blog-on-aws-the-ultimate-guide
 
 The guide provides detailed instructions on **how to successfully deploy** the TechMust Blog Page Application on AWS infrastructure with the desired architecture.
 
